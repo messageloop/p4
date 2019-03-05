@@ -1,6 +1,6 @@
 {
-	"model" : "P3",
-	"version" : "1.39.11",
-	"url" : "https://raw.githubusercontent.com/messageloop/P3/master/image_p3_1_39_11_20181217.img",
-	"description" : "1.39.11 release"
+    "model" : "P4",
+    "version" : "1.0.0",
+    "url" : "https://raw.githubusercontent.com/messageloop/P4/koogeek_outlet-p4-20190405.bin",
+    "description" : "test version"
 }
