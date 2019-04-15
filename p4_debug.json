@@ -1,6 +1,6 @@
 {
 	"model" : "P4",
-	"version" : "1.0.1",
-	"url" : "https://raw.githubusercontent.com/messageloop/P4/master/koogeek_outlet-p4-20190409.bin",
+	"version" : "1.0.2",
+	"url" : "https://raw.githubusercontent.com/messageloop/P4/master/koogeek_outlet-p4-20190415.bin",
     "description" : "单插P4和P4eu的固件电量统计的问题"
 }
