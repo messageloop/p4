@@ -1,6 +1,6 @@
 {
 	"model" : "P4",
-	"version" : "1.0.4",
-	"url" : "https://raw.githubusercontent.com/messageloop/P4/master/1.0.4_201905241817.bin",
+	"version" : "1.0.6",
+	"url" : "https://raw.githubusercontent.com/messageloop/P4/master/1.0.6_201905281158.bin",
     "description" : "单插P4和P4eu的固件电量统计的问题"
 }
